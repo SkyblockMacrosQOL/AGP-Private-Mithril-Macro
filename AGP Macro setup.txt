@@ -1,0 +1,12 @@
+HOW TO SETUP AGP MITHRIL MACRO:
+1. You will need forge 1.12 and baritone downloaded.
+2. After you have forge installed, download "AGP Private Mithril Macro" "autoreconnect-1.1" "ungrabmouse-2.2".
+3. Drag this 3 files into your mods folder.
+4. Open the game.
+5. Press H to start the macro and J to stop it.
+
+TIPS WHEN USING THE MACRO:
+- Disable profile viewer (Having profile viewer on is a hard risk option because when it right clicks for using mining speed ability you can open some gui and if  you move with a gui open you are beamed).
+- If you have a god pot on disable every effect that gives speed and jump boost or you will never reach the spot of the blue wool.
+- Turn down render distance to 2 or your game will crash.
+- Even the macro is fully afk I dont recommend using it for +16h/day as it might be sussy.
